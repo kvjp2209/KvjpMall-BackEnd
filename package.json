@@ -1,0 +1,12 @@
+{
+  "name": "KvjpMall_BackEnd",
+  "version": "1.0.0",
+  "description": "KvjpMall",
+  "main": "index.js",
+  "author": "Kvjp",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
